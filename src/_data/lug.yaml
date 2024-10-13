@@ -1,0 +1,38 @@
+---
+communities:
+  - title: BangPypers
+    website: "https://bangalore.pythonindia.org/"
+    logo: "/static/img/lug/bangpypers.png"
+    region: Bengaluru, Karnataka
+  - title: PythonPune
+    website: "https://pythonpune.in/"
+    logo: "/static/img/lug/PythonPune_banner.svg"
+    region: Pune, Maharashtra
+  - title: HydPy
+    website: "https://www.hydpy.org/"
+    logo: "/static/img/lug/hydpy.png"
+    region: Hyderabad, Telangana
+  - title: ChennaiPy
+    website: "https://chennaipy.org/"
+    logo: "/static/img/lug/chennaipy.png"
+    region: Chennai, Tamil Nadu
+  - title: Pyladies India
+    website: "https://x.com/pyladiesi"
+    logo: "/static/img/lug/pyladies.jpg"
+    region: India
+  - title: PyDelhi
+    website: "https://pydelhi.org/"
+    logo: "/static/img/lug/pydelhi.jpeg"
+    region: Delhi NCR
+  - title: MumPy
+    website: "https://mumbai.pythonindia.org/"
+    logo: "/static/img/lug/logo_mumpy.png"
+    region: Mumbai, Maharashtra
+  - title: Django Girls BLR
+    website: "https://x.com/DjangoGirlsBLR"
+    logo: "/static/img/lug/djangogirlsblr.png"
+    region: Bengaluru, Karnataka
+  - title: BelPy
+    website: "https://belpy.in/"
+    logo: "/static/img/lug/belpy.png"
+    region: BelPy, Karnataka
